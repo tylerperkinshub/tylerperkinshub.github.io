@@ -1,0 +1,18 @@
+.skills-center{
+  display: flex;
+  justify-content: center;
+}
+
+.contact-center{
+  display: flex;
+  justify-content: center;
+}
+
+.header-color{
+  color: white;
+  text-shadow: 5px 5px 10px #333;
+}
+
+.button-shadow{
+  text-shadow: 2px 2px 5px #333;
+}
