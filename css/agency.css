@@ -11,7 +11,7 @@ body {
   color: #777777;
 }
 .text-primary {
-  color: #fed136;
+  color: #fed136;about
 }
 p {
   font-size: 14px;
@@ -463,6 +463,11 @@ section h3.section-subheading {
 .timeline .timeline-body > ul {
   margin-bottom: 0;
 }
+
+.skills-center {
+  display: flex;
+  justify-content: center;
+}
 @media (min-width: 768px) {
   .timeline:before {
     left: 50%;
@@ -492,6 +497,10 @@ section h3.section-subheading {
     float: right;
     text-align: left;
     padding: 0 30px 20px 20px;
+  }
+  .skills-center {
+    display: flex;
+    justify-content: center;
   }
 }
 @media (min-width: 992px) {
